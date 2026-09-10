@@ -1,0 +1,10 @@
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\App.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\exception\DuplicateChallanException.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\exception\InvalidVehicleException.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\model\Challan.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\model\PaymentStatus.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\model\Vehicle.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\model\VehicleType.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\model\ViolationType.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\service\ChallanService.java
+C:\Users\bbhav\OneDrive\Desktop\24MIS0358\TrafficViolationEChallan\src\main\java\com\traffic\service\VehicleService.java
